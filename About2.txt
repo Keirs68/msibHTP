@@ -1,0 +1,3 @@
+Branch Maulida merupakan branch kedua yang dibuat.
+Branch ini berisikan file indext.html dan about2.txt.
+File index.html merupakan file yang digunakan untuk membuat tugas sebelumnya.
