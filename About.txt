@@ -1,0 +1,2 @@
+Branch Putri merupakan branch pertama yang dibuat untuk memenuhi tugas 1.
+Pada branch ini berisi file profil.txt, about.txt dan beberapa file dari master.
